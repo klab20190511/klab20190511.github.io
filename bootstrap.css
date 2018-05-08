@@ -4968,6 +4968,7 @@ tbody.collapse.show {
   background-repeat: no-repeat;
   background-size: cover;
   vertical-align: middle;
+  text-align:center;
   height:100vh;
 }
 
